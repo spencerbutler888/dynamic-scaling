@@ -31,15 +31,12 @@ A reversion-based execution framework is implemented where participation rate ad
 - 4PL scaling does not show statistically significant improvement over clamped linear
 - In low-volatility environments, the two scaling methods produce nearly identical outcomes
 
----
-
 ## File Contents
 
 - `dynamic_scaling.ipynb`: Jupyter Notebook containing full implementation, simulation, and analysis
 - `Dynamic Scaling.pdf`: Final paper write-up
 - `README.md`: Project summary
 
----
 
 ## Disclaimer
 
